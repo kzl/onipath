@@ -1,0 +1,88 @@
+body {
+    font-family: "Roboto", sans-serif;
+    background-color: #3E606F;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2, p {
+    color: #3E606F;
+    font-size: 1em;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    margin-left: 1em;
+    margin-right: 1em;
+}
+
+p {
+    margin-left: 1.2em;
+}
+
+h2 {
+    font-size: 1.2em;
+    border-bottom: 2px #193441 solid;
+}
+
+li {
+    font-style: italic;
+    list-style: none;
+    margin-bottom: 0.2em;
+    border-bottom: 1px #193441 solid;
+}
+
+a {
+    font-size: 1em;
+    font-style: normal;
+    text-decoration: none;
+}
+
+b {
+    color: #193441;
+}
+
+form {
+    text-align: center;
+    margin: 0.8em;
+    margin-left: 1.2em;
+}
+
+input {
+    text-align: center;
+    margin-bottom: 0.2em;
+}
+
+.dt {
+    width: 4em;
+}
+
+#topic-name {
+    width: 15em;
+}
+
+#web-canvas {
+    background-color: #D1DBBD;
+    border: 2px #193441 solid;
+    text-align: center;
+    width: 960px;
+    height: 720px;
+    margin: 0 auto;
+    margin-top: 1em;
+    margin-bottom: 1.2em;
+}
+
+#news-list-col, #user-input {
+    background-color: #FCFFF5;
+    border: 2px #193441 solid;
+    width: 960px;
+    margin: 0 auto;
+    margin-bottom: 2em;
+}
+
+#user-input {
+    margin-top: 1.2em;
+    margin-bottom: 1.2em;
+}
